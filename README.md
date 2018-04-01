@@ -10,6 +10,7 @@ ios 10.13  python 3.5.4  tensorflow 1.2.0
 ## 2. 数据集预处理：
 
 运行主程序main.py后先对数据进行预处理：
+
 (1)将reviews去除标点符号，并移除长度为0的异常review数据
 
 (2)建立word的字典并对words及labels进行编码
